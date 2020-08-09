@@ -3,42 +3,39 @@
 ​
 <head>
 ​
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <!-- Page Title -->
-  <title>Doug Davidoff</title>
+    <meta charset="UTF-8">
+    <title>Bootstrap Background</title>
 ​
-  <!-- Bootstrap CDN -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-
-  <!-- CSS stylesheet link -->
-  <link rel="stylesheet" href="style.css">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">  ​
+    <!-- Add Bootstrap CDN Here -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    
+    <!-- Add CSS stylesheet here -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
-​
+
 <body>
-   <!-- Navigation -->
+
+<!-- The page body is based on an example from StartBootstrap. The example is found at https://startbootstrap.com/snippets/full-image-background/ -->    
+
+<!-- Set Up Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light static-top mb-5 shadow">
     <div class="container">
-      <a class="navbar-brand" href="#">Start Bootstrap</a>
+      <a class="navbar-brand" href="#">Douglass T. Davidoff</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home
+            <a class="nav-link" href="#">About
                   <span class="sr-only">(current)</span>
                 </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Services</a>
+            <a class="nav-link" href="#">Portfolio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
@@ -46,32 +43,41 @@
         </ul>
       </div>
     </div>
-  </nav> 
-
-    <!-- End Navigation -->
- 
-    <!-- Page Content -->
+  </nav>
+  
+  <!-- Page Content -->
   <div class="container">
     <div class="card border-0 shadow my-5">
       <div class="card-body p-5">
-        <h1 class="font-weight-light">Fixed Full Page Background Image</h1>
-        <p class="lead">In this snippet, the background image is fixed to the body element. Content on the page will scroll, but the image will remain in a fixed position!</p>
-        <p class="lead">Scroll down...</p>
-        <div style="height: 700px"></div>
-        <p class="lead mb-0">You've reached the end!</p>
+        <h1 class="font-weight-light" color="blue">About Doug Davidoff</h1>
+        <hr>
+        
+        <img id="dtd-hedshot" src="https://via.placeholder.com/250" alt="DTD photo">
+        
+        <p class="lead">Doug Davidoff has been a newspaper reporter and a public relations consultant for private business, state government, and statewide political campaigns. He delights in blogging, social media, history, and writing. He also delights in software coding.</p>
+
+        <p class="lead">But before all that (and of "all that," there was a great amount over the years), Doug was interested in computers and coding.</p>
+            
+        <p class="lead">During junior high school in the 1970s, Doug worked on a teletypewriter terminal connected by an acoustic telephone coupler to the school district's mainframe computer. He learned to play in BASIC and FORTRAN. During college, he worked with 80-column computer punch cards in the days when students submitted decks of cards in a refridgerator-sized reader machine and then waited hours for the output to arrive on big printout forms.</p>
+            
+        <p class="lead">Doug was recruited to become a computer science major. Instead he became a history major. Thus, a career direction was formed.</p>
+            
+        <p class="lead">Coding bootcamp is an opportunity to redirect that trajectory. So, Doug is a wordsmith who is training to become a codesmith.</p>
+       
       </div>
     </div>
   </div>
-​
+   
+<!-- footer content below -->
+<footer class="footer">
+    <!-- Page will now automatically copyright every year from 2019 to the present.-->
+    <p>
+        &copy; by Douglass Davidoff, 2019-<script>document.write(new Date().getFullYear())</script>.
+    </p>
+</footer>
 
 
-  <!-- jQuery CDN -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-​
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-​
-  <!-- Bootstrap JavaScript CDN -->
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
-​
 </html>
+
+  
