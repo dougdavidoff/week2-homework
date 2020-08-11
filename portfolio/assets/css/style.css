@@ -27,6 +27,7 @@ body {
 #headline {
   color: #2f9992;
   font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 #dtd-hedshot {
@@ -34,6 +35,12 @@ body {
   width: 250px;
   padding: 0px 25px 10px 0px;
 }
+
+/* .my-card-stlye {
+  width: 18rem;
+  padding-right: 1200px;
+  border: 0px;
+} */
 
 #copyright {
   text-align: center;
