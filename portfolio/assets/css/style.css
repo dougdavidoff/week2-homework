@@ -21,6 +21,15 @@ body {
 }
 
 #reverse-type {
-  background-color: turquoise;
+  background-color: #2f9992;
   color: white;
+  font-size: 36px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  font-weight: bold;
+}
+
+#headline {
+  color: #2f9992;
+  font-family: 'Times New Roman', Times, serif;
 }
