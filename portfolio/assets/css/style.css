@@ -9,17 +9,6 @@ body {
   -o-background-size: cover; */
 }
 
-#dtd-hedshot {
-  float: left;
-  width: 250px;
-  padding: 0px 25px 10px 0px;
-}
-
-#copyright {
-  text-align: center;
-  color: white;
-}
-
 #reverse-type {
   background-color: #2f9992;
   color: white;
@@ -29,7 +18,24 @@ body {
   font-weight: bold;
 }
 
+#dtd-container {
+  width: 50%;
+  /* float: left; */
+  margin-right: 570px;
+} 
+
 #headline {
   color: #2f9992;
   font-family: 'Times New Roman', Times, serif;
+}
+
+#dtd-hedshot {
+  float: left;
+  width: 250px;
+  padding: 0px 25px 10px 0px;
+}
+
+#copyright {
+  text-align: center;
+  color: white;
 }
