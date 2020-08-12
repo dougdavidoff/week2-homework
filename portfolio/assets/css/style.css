@@ -9,6 +9,10 @@ body {
   -o-background-size: cover; */
 }
 
+.my-navbar {
+  padding-top: 100px;
+}
+
 #reverse-type {
   background-color: #2f9992;
   color: white;
