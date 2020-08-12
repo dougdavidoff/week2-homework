@@ -46,6 +46,10 @@ body {
   border: 0px;
 } */
 
+.link {
+  color: #2f9992
+}
+
 #copyright {
   text-align: center;
   color: white;
