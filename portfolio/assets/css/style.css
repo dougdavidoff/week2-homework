@@ -9,6 +9,16 @@ body {
   -o-background-size: cover; */
 }
 
+html,
+body {
+  height: 100%;
+}
+
+
+#page-content {
+  flex: 1 0 auto;
+  }
+
 .my-navbar {
   padding-top: 100px;
 }
@@ -48,6 +58,10 @@ body {
 
 .link {
   color: #2f9992
+}
+
+#sticky-footer {
+  flex-shrink: none;
 }
 
 #copyright {
