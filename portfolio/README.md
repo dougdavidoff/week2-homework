@@ -35,7 +35,7 @@ Here we present *the initial stage of creating a professional-grade portfolio* f
 
 **Project challenges**
 Developing the website presented a number of challenges requiring help from the teaching staff and my tutor. Here is a list of challenges and their disposition:
-1. Responsive layout and responsive images. After research and further study at W3schools.com and FreeCodeCamp.com, I was able to work things out, more or less. This task included use of minimal media queries and presentation on the "xs" and "sm" screens. I learned that next time, I should begin coding in the mobile view and work to enlarge outwards.
+1. Responsive layout and responsive images. After research and further study at W3schools.com and FreeCodeCamp.org, I was able to work things out, more or less. This task included use of minimal media queries and presentation on the "xs" and "sm" screens. I learned that next time, I should begin coding in the mobile view and work to enlarge outwards.
 1. When presented with a hamburger logo, the navbar did not work. I was able to resolve this.
 1. I had to learn Markdown Language to format this README file.
 
