@@ -30,15 +30,14 @@ Here we present *the initial stage of creating a professional-grade portfolio* f
 1. Appropriate *personalized information* is built into the site.
 1. *Bootstrap components and grid system* are used throughout the site.
 1. A *sticky footer* is used, stemming from Bootstrap. This is one of the two *bonus challenges* in the homework assignment.
+1. The website is responsive to different media/viewport sizes.
+1. The website's three HTML pages were checked at W3.org's code validator.
 
 **Project challenges**
 Developing the website presented a number of challenges requiring help from the teaching staff and my tutor. Here is a list of challenges and their disposition:
-1. Responsive layout and responsive images.
-1. Minimal use of media queries.
-1. Presentation on the "xs" and "sm" screens.
-1. When presented with a hamburger logo, the navbar does not work.
-1. Numerous errors found on the W3 HTML validator service. I found it difficult to resolve many of the errors presented.
-1. The README file required markdown language to properly format the file.
+1. Responsive layout and responsive images. After research and further study at W3schools.com and FreeCodeCamp.com, I was able to work things out, more or less. This task included use of minimal media queries and presentation on the "xs" and "sm" screens. I learned that next time, I should begin coding in the mobile view and work to enlarge outwards.
+1. When presented with a hamburger logo, the navbar did not work. I was able to resolve this.
+1. I had to learn Markdown Language to format this README file.
 
 **Tests**
 Pages in this website were tested at the W3C Markup Validation Service found at:
