@@ -1,6 +1,5 @@
 
-# Homework Assignment for Week 2 (Bootstrap)
-# Product: Doug Davidoff Portfolio
+# Doug Davidoff Portfolio
 
 ### Location and Installation
 Deployed website found here:
