@@ -5,6 +5,8 @@
 Deployed website found here:
 [https://dougdavidoff.github.io/week2-homework/portfolio/index.html](https://dougdavidoff.github.io/week2-homework/portfolio/index.html). The website requires no installation steps from the user.
 
+![Portfolio screenshot](https://user-images.githubusercontent.com/10477863/94635565-ee3e1100-02a0-11eb-868a-7bc632dfd83b.png)
+
 ### Purpose of the Project
 Here we present *the initial stage of creating a professional-grade portfolio* for our work in coding bootcamp. This will be a great assistance as we prepare for the job search following graduation from bootcamp. The portfolio makes extensive use of Bootstrap, including its built-in formatting and grid layout technologies.
 
